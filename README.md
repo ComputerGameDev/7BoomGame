@@ -34,7 +34,7 @@ A fun and interactive **7 Boom** game built using Unity Engine. Test your reflex
 - **NotBoomButton**: Button for selecting "Not Boom."
 
 ### Future Features
-- **Fruit Ninja Style Gameplay**: 
-  - Display numbers on circle object flying across the screen.
+- **Fruit Ninja Style Gameplay**:
+  - Display numbers on circle objects flying across the screen.
   - Players swipe or click the fruits with numbers to identify "Boom" or "Not Boom."
   - Wrong swipes deduct points or add mistakes.
