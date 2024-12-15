@@ -8,11 +8,6 @@ A fun and interactive **7 Boom** game built using Unity Engine. Test your reflex
 - Score tracking and mistake counter.
 - Simple and intuitive UI.
 
-## Getting Started
-
-### Prerequisites
-- Unity Engine version 2020.3 or later.
-- 
 ### How to Play
 1. A random number is displayed on the screen.
 2. Decide if the number is "Boom" (divisible by 7 or contains the digit 7).
